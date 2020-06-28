@@ -44,10 +44,11 @@ Java的处理方式对内存消耗比较大的，如果加载比较大的GIF文�
 
 ## 利用系统提供的库来二次开发GIF图播放 
 
-参考源码路径：external/giflib/
+参考源码路径：https://www.androidos.net.cn/android/7.0.0_r31/xref/external/giflib
 
  \#播放GIF暂时只需要这两个c库
 
 ​    dgif_lib.c
 
 ​    gifalloc.c
+
